@@ -14,6 +14,6 @@ The label in the task here is **NOT** the **volatility** used in HTML, but the *
 If you want to reproduce the original HTML, you can go to the `tools.py` file I provided and make simple modifications to the `calculate_movement` function. 
 Trust me, it's easy as long as you understand the difference between volatility and movement :)
 
-PS: Due to the large size of the files, `sorted_list_3days.npy` and `sorted_embed_3days.npy` cannot be uploaded. You can generate these files yourself. The file `EarningsCallData\ReleasedDataset\ReleasedDataset_mp3` needs to be downloaded from https://github.com/GeminiLn/EarningsCall_Dataset.
+PS: Due to the large size of the files, it is difficult to upload `sorted_list_3days.npy` and `sorted_embed_3days.npy`. You can generate these files yourself. The required `EarningsCallData` needs to be downloaded from [EarningsCall_Dataset](https://github.com/GeminiLn/EarningsCall_Dataset).
 
 Hope this repository can be helpful to you, good luck!
