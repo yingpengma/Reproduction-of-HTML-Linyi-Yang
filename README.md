@@ -1,4 +1,4 @@
-# HTML_partial_reproduction
+# Reproduction of HTML (Linyi Yang, WWW 2020)
 
 This is an **unofficial** implementation for the paper [**HTML: Hierarchical Transformer-based Multi-task Learning for Volatility Prediction**](https://dl.acm.org/doi/abs/10.1145/3366423.3380128) (Yang et al., WWW 2020). Please refer to the **official** implementation [**HERE**](https://github.com/YangLinyi/HTML-Hierarchical-Transformer-based-Multi-task-Learning-for-Volatility-Prediction).
 
